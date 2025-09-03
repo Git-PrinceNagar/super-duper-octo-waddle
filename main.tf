@@ -13,4 +13,9 @@ resource "azurerm_resource_group" "rg3" {
   location = "central india"
 }
 
+resource "azurerm_resource_group" "rg4" {
+  name     = "thelanew4"
+  location = "central india"
+}
+
 
